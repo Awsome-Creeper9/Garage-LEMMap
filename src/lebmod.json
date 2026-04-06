@@ -1,0 +1,17 @@
+{
+    "name": "Garage",
+    "description": "Inspired by Shrunk. This map take place in a large garage. In the garage there is a car in the center and various pieces of furniture and items found in the garage, such as a fridge and a workbench.",
+    "authors": "Awsome_Creeper9",
+    "version": "1.0.2",
+    "id": "garage",
+    "type": "map",
+    "pack": "plastic",
+    "hassmall": false,
+    "haslarge": false,
+    "haslargeplus": true,
+    "hasremastered": false,
+    "centercoords_small": "0 0 0",
+    "centercoords_large": "0 0 0",
+    "centercoords_largeplus": "42 28 42",
+    "centercoords_remastered": "0 0 0"
+}
