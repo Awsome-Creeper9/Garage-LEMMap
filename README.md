@@ -1,9 +1,7 @@
-# Example LEM Mod
+# Garage
 
-Example LEM-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+Inspired by Shrunk. This map take place in a large garage. In the garage there is a car in the center and various pieces of furniture and items found in the garage, such as a fridge and a workbench.
 
-This map is not an example on how to do map design, it is just to demonstrate the Map Editor.
+This is a repository for a custom LEM modtools map.
 
-If you're actually making a map, you should replace the example map with yours
-
-For information on how to actually use this repository, please see the [LEM-ModTools documentation](https://docs.legacyminigames.net/en/latest/modtools/landing.html)
+[LEM-ModTools documentation](https://docs.legacyminigames.net/en/latest/modtools/landing.html)
